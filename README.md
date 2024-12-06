@@ -19,8 +19,9 @@ python3 julia_app.py
 ```
 
 ## Contrôles
-zqsd pour les déplacements orthogonaux
-i pour zoomer
-k pour dézoomer
-e pour exporter
-x pour quitter
+
+ 1. zqsd pour les déplacements orthogonaux
+ 2. i pour zoomer
+ 3. k pour dézoomer
+ 4. e pour exporter
+ 5. x pour quitter
